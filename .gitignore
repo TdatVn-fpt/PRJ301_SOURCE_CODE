@@ -1,0 +1,36 @@
+# --- Compiled class files (File dịch ra máy ảo Java) ---
+*.class
+
+# --- Log files ---
+*.log
+
+# --- NetBeans (Quan trọng) ---
+# Chỉ giữ lại cấu hình chung, bỏ cấu hình cá nhân
+/nbproject/private/
+/nbproject/Makefile-*.mk
+/nbproject/Package-*.bash
+
+# Thư mục build và file chạy (WAR, JAR)
+/build/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# --- VS Code (Bỏ cấu hình riêng của VS Code) ---
+.vscode/
+.history/
+
+# --- Maven (Nếu sau này bạn dùng Maven) ---
+/target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+
+# --- Windows/Mac System files (Rác của hệ điều hành) ---
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# --- Tomcat/Server (Nếu lỡ để file server trong project) ---
+apache-tomcat-*
