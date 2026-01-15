@@ -34,3 +34,21 @@ Desktop.ini
 
 # --- Tomcat/Server (Nếu lỡ để file server trong project) ---
 apache-tomcat-*
+/Inclass/Demo01/nbproject/private/
+/Inclass/Demo01/build/
+/Inclass/PRJ_01/nbproject/private/
+/Inclass/PRJ_01/build/
+/Inclass/PRJ_02/nbproject/private/
+/Inclass/PRJ_02/build/
+/Inclass/PRJ_02/dist/
+/Inclass/PRJ_03/nbproject/private/
+/Inclass/PRJ_03/build/
+/Inclass/PRJ_03/dist/
+/Practice/Demo/PRJ01_Practice/nbproject/private/
+/Practice/Demo/PRJ01_Practice/build/
+/Practice/Demo/PRJ01_Practice/dist/
+/Practice/Demo/PRJ02_Practice/nbproject/private/
+/Practice/Demo/PRJ02_Practice/build/
+/Practice/Demo/PRJ02_Practice/dist/
+/Practice/PRJ03_Practice/nbproject/private/
+/Practice/PRJ03_Practice/build/

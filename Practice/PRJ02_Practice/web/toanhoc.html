@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/Html.html to edit this template
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body> 
+        <form action="toan" method="post"> <!<!-- có check thì không cần làm trường hợp nó null nữa -->
+            Nhap so thu 1:<input type="text" name="number1"/> <br/>
+            Nhap so thu 2:<input type="text" name="number2"/> <br/>
+<!--            <input type="radio" name="op" checked value="+"/>Cong
+            <input type="radio" name="op" value="-"/>Tru
+            <input type="radio" name="op" value="*"/>Nhan
+            <input type="radio" name="op" value="/"/>Chia-->
+            
+<select name="op">
+    <option value="+">cong</option>
+    <option value="-">tru</option>
+    <option value="*">nhan</option>
+    <option value="/">chia</option>
+</select>
+            <br/>
+            <input type="submit" value="Tinh toan"/>Tinh toan
+        </form>
+    </body>
+</html>

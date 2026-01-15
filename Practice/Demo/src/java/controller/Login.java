@@ -30,7 +30,6 @@ public class Login extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
-        
     }
     
     @Override
@@ -48,6 +47,7 @@ public class Login extends HttpServlet {
         }
         out.append("<h1>"+ms+"</h1>");
     }
+    
     
     @Override
     public String getServletInfo() {

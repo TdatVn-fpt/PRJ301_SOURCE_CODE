@@ -1,0 +1,6 @@
+Bài prj01_practice : tập trung về cách tính hình chữ nhật và nếu đề nào đấy bảo init giá trị ở parameter thì lưu giá trị ở web.xml bằng thẻ <context-parameter>
+Bài prj02-practice: sử dung java tạo class bth không sử dung servlet và tự cấu hình file web.xml và tự tạo config
+1 là dat trung tên de set tưng cai 2 là đặt going tên dung mảng set theo giá trị
+dung select hoặc dung radioều được 
+Bài PRJ03_Practice
+có các thẻ br và h2ở do post phải kéo phần body xuống mới chạy được 
